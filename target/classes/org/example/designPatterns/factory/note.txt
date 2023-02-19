@@ -1,0 +1,19 @@
+The Factory Design Pattern is a creational design pattern that provides an interface for
+creating objects in a superclass, but allows subclasses to alter the type of objects that will
+be created. It is used when there is a need to create objects of different types, but the
+specific type of object needed may not be known until runtime.
+
+The Factory Design Pattern consists of a factory method that is responsible for creating objects.
+The factory method is usually defined in an abstract class or interface, which allows subclasses
+to implement the factory method and create objects of different types.
+
+The advantage of using the Factory Design Pattern is that it decouples the creation of objects
+from their usage, which makes it easier to maintain and extend the code. It also allows for the
+creation of objects without exposing the creation logic to the client code, which helps to keep the
+code more modular and flexible.
+
+Overall, the Factory Design Pattern is a powerful technique for creating objects in a flexible and
+maintainable way, and is widely used in software development.
+
+
+

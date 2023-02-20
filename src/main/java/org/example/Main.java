@@ -1,7 +1,7 @@
 package org.example;
 
 
-import org.example.designPatterns.factoryMethod.Test;
+import org.example.designPatterns.abstractFactory.Test;
 
 public class Main {
     public static void main(String[] args) {

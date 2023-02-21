@@ -1,0 +1,1 @@
+Purpose => building various variations of a complex object

@@ -1,1 +1,0 @@
-Create only one instance of a class

@@ -1,0 +1,8 @@
+Proxy:
+    Virtual proxy
+    Remote proxy
+    Protection proxy(Access Management)
+
+We'll focus on virtual proxy.
+    Goal: Optimize performance, i.e: avoiding expensive re-computation only when it's necessary
+    Virtual Proxy: Controls access to a resource that's expensive to create

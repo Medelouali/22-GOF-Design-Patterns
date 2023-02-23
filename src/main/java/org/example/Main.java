@@ -1,7 +1,7 @@
 package org.example;
 
 
-import org.example.designPatterns.command.Test;
+import org.example.designPatterns.proxy.Test;
 
 public class Main {
     public static void main(String[] args) {

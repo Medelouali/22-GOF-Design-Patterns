@@ -1,0 +1,4 @@
+The Composite pattern is a design pattern in object-oriented programming that allows you
+to treat a group of objects in the same way as a single instance of an object. In other words,
+it allows you to create a tree-like structure of objects, where both individual objects and groups
+of objects can be treated uniformly.

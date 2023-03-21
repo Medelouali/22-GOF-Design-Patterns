@@ -1,7 +1,7 @@
 package org.example;
 
 
-import org.example.designPatterns.templateMethod.Test;
+import org.example.designPatterns.bridge.Test;
 
 public class Main {
     public static void main(String[] args) {
